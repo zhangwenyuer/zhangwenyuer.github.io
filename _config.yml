@@ -1,4 +1,4 @@
-# Site settings 配置站点
+    # Site settings 配置站点
 title: 'zhangwenyuer'
 description: '论一个菜鸡的自我修养'
 keyword: '张雯钰, 前端, 前端开发, 前端博客, javascript'
@@ -50,7 +50,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/u/'
-  github: '//github.com/zhangweiyuer'
+  github: '//github.com/zhangwenyuer'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
