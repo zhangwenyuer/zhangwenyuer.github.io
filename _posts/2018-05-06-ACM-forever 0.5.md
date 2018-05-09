@@ -4,7 +4,7 @@ title: 第四届福建省大学生程序设计竞赛--A题
 date: 2018-05-05
 categories: 算法
 tags: 算法 ACM
-cover: '/assets/img/hero.jpg'
+cover: '/assets/img/3.png'
 ---
 # 来自今天下午的比赛
 
